@@ -3,7 +3,7 @@ Docker-compose LEMP whith Laravel v9.11.0 (PHP v8.0.2), Nginx:alpine, mysql:5.7.
 
 ### Installation
 
-Rename ".env.example" to ".env"<br><br>
+Rename "laravel/.env.example" to ".env"<br><br>
 <code>$ composer install</code><br><br>
 <code>$ docker-compose up -d</code><br><br>
 <code>$ docker-compose exec app php artisan key:generate</code><br><br>
