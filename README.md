@@ -1,5 +1,4 @@
-## DockerLEMP-Laravel
-Docker-compose LEMP whith Laravel v9.11.0 (PHP v8.0.2), Nginx:alpine, mysql:5.7.22
+Laravel v9.11.0 (PHP v8.0.2), Nginx:alpine, mysql:5.7.22
 
 ### Installation
 
